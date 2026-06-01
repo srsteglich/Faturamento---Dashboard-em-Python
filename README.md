@@ -1,1 +1,3 @@
 # Faturamento---Dashboard-em-Python
+
+Desenvolvi o Projeto de Python com Streamlit, que geram os graficos com filtros de escolha da data, da localização, dos clientes, dos produtos, etc...
